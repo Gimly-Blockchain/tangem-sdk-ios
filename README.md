@@ -2,6 +2,19 @@
 [![License](https://img.shields.io/cocoapods/l/TangemSdk.svg?style=flat)](https://cocoapods.org/pods/TangemSdk)
 [![Platform](https://img.shields.io/cocoapods/p/TangemSdk.svg?style=flat)](https://cocoapods.org/pods/TangemSdk)
 
+# Welcome to Gimly + Tangem for Odyssey
+Gimly and Tangem are excited to be offering this technology to all Odyssey teams for free. If you have not done so yet, be sure to enlist for your DevKit here: https://www.gimly.io/blog/odyssey-tangem
+
+## Resources:
+* This iOS SDK helps you implement tangem functionalities in your iOS applications.
+* Android and JVM SDK are available here: https://github.com/Gimly-Blockchain/tangem-sdk-android
+* Once you have enlisted to receive your free DevKit, you will get access to:
+    * a full technical manual explaining Tangem functions and all possible settings.
+    * android Tangem development kit application to program your developer cards.
+
+## Technology and implementation partnering
+Gimly is an implementation partner and technology supplier of Tangem technology. Any enquiries relating to future implementations, further testing and deployment, and personalising and ordering programmable or production ready Tangem NFC cards, stickers, or tags may be directed at caspar@gimly.io.
+
 # Welcome to Tangem
 
 The Tangem card is a self-custodial hardware wallet for blockchain assets. The main functions of Tangem cards are to securely create and store a private key from a blockchain wallet and sign blockchain transactions. The Tangem card does not allow users to import/export, backup/restore private keys, thereby guaranteeing that the wallet is unique and unclonable. 
